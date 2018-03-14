@@ -1,9 +1,8 @@
 # Functional Safety of a Lane Assistance System
 
-* __Final Submission PDFs can be found in Final_Submission_PDFs/__
+__Final Submission can be found in Final_Submission_PDFs/__
 
 Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
-
 
 ### Description of Repo Files
 
