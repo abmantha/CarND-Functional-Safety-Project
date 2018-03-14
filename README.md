@@ -1,6 +1,6 @@
 # Functional Safety of a Lane Assistance System
 
-## Final Submission PDFs can be found in Final_Submission_PDFs/__
+## Final Submission PDFs can be found in Final_Submission_PDFs/
 
 ---
 
